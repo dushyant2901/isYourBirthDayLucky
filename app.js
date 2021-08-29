@@ -27,10 +27,8 @@ if(sum%num===0){
     output.innerHTML="you"
 }else{
     console.log("iu")
-    output.innerHTML="y"
-}
-}
+ cTML="y"
+ghghgh
 
-
-
-check.addEventListener("click",clickHandler)
+var date = document.querySelector()
+check.addEventListener("click",clickHandler
